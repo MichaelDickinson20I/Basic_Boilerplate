@@ -1,4 +1,4 @@
-@tailwind base;
+@tailwind base; /* Preflight is disabled in tailwind config */
 @tailwind components;
 @tailwind utilities;
 :root {
